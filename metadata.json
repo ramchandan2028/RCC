@@ -1,0 +1,6 @@
+{
+  "name": "RCC",
+  "description": "Comprehensive Study Management & Learning App for BCA with subjects, quizzes, focus pomodoro, tasks, and relational data architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
